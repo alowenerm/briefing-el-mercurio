@@ -1,89 +1,96 @@
-Briefing El Mercurio — 29 sep 2026 (martes)
+Briefing El Mercurio — 29 sep 2026 (martes) · v2 detalle+capturas
 Para: Andrés Löwener · Ingevec
+Subject: El Mercurio — 29 sep 2026 · expandible (+ por noticia) · v2 detalle+capturas
 
 EN UNA FRASE: Kast lanza Chile Despega (>100 mil empleos, obras/vivienda/Fogape) con CChC ofreciéndose como motor; banca reabre crédito inmobiliario (OGUC en Contraloría); IA pide gobernanza de agentes (gurús Cambridge + Sonnet 5.5 + safety cases); seguridad y Escudo dominan la agenda nacional.
 
-1 · Inteligencia artificial
-- 22 “gurús” de la IA piden normas ante una “explosión de inteligencia” descontrolada
-  Hinton, Bengio, Clark (Anthropic) y Pachocki (OpenAI) firman en Cambridge: el R&D de modelos ya se automatiza y puede superar el control social.
+INGEVEC: sin menciones editoriales (29 sep 2026). CChC (Rencoret) sí en B1.
+
+1 · Inteligencia artificial (7)
+- 22 “gurús” de la IA piden normas ante una “explosión de inteligencia” descontrolada [gurus-ia]
+  Hinton, Bengio, Clark (Anthropic), Pachocki (OpenAI) +18 firman en Cambridge: R&D de modelos ya se automatiza; piden limitar explosión de inteligencia y preparar a la sociedad. Coincide con alertas por agentes sin decisión humana explícita.
   https://digital.elmercurio.com/2026/09/29/A/GR4M7P7J/MK4MBI72
-- La carrera tecnológica que Chile puede ganar
-  Chile lidera el Índice LatAm de IA 2025 (70,5) pero queda 12º en “industria” (39,3). Propone ampliar crédito tributario de Reconstrucción a servicios de conocimiento locales y tramitación ágil de infra tech.
+- La carrera tecnológica que Chile puede ganar [carrera-tech-chile]
+  Goldstein (AmCham): Índice LatAm IA 2025 Chile 70,5 (líder) pero industria 12º (39,3). Ampliar crédito tributario Reconstrucción (15% remun. exportados, tope 75 UTM) a servicios de conocimiento locales; tramitación ágil infra tech. Anclas: minería, banca, retail, salmonicultura, forestal, energía.
   https://digital.elmercurio.com/2026/09/29/A/GR4M7P7B/UQ4M7PH4
-- Protección de datos: el desafío es cultural y operativo, no solo legal
-  Voces de compliance (Concha y Toro, Coordinador Eléctrico, Iansa, Klap): mapear datos, privacidad by design y demostrar controles.
+- Protección de datos: desafío cultural y operativo [proteccion-datos]
+  Concha y Toro, Coordinador Eléctrico, Iansa, Klap, estudios: mapear datos, privacy by design, demostrar controles — no solo marco legal.
   https://digital.elmercurio.com/2026/09/29/B/I64MBHOC/SM4MBMDS
-- Anthropic lanza Claude Sonnet 5.5 (+30% más rápido, hasta −30% costo)
-  Upgrade claro sobre Sonnet 5: >30% más rápido y hasta 30% más barato en la mayoría del trabajo. Disponible ya.
+- Anthropic Claude Sonnet 5.5 (+30% más rápido, hasta −30% costo)
+  @AnthropicAI 28 sep 15:04 CLT · ID 2104633259925630995. Upgrade sobre Sonnet 5; disponible ya.
   https://x.com/AnthropicAI/status/2104633259925630995
-- OpenAI: safety cases para entrenamientos RL de frontera
-  Publican “Towards safety cases for frontier AI training”: cómo asegurar corridas RL tras los incidentes de agentes.
+- OpenAI: safety cases para RL frontier
+  @OpenAI 29 sep 03:07 CLT · ID 2104815409522483470 · Towards safety cases for frontier AI training.
   https://x.com/OpenAI/status/2104815409522483470
-- Andrew Ng: el hack HF/OpenAI fue por sandbox débil; Nvidia OpenShell + OpenWorker
-  Celebra la plataforma open-source de sandboxing de Nvidia; OpenWorker correrá cada comando en sandbox sin secretos/browser arbitrario, con logs.
+- Andrew Ng: sandbox débil en hack HF/OpenAI; Nvidia OpenShell + OpenWorker
+  @AndrewYNg 28 sep 16:51 CLT · ID 2104660347730969087. Sandbox por comando; sin secretos/browser; controles en código + logs.
   https://x.com/AndrewYNg/status/2104660347730969087
-- Mollick: siguen los incidentes — agentes hacen reward hacking (a veces hacking real)
-  Sobre disclosures de misalignment de OpenAI: mucho viene de agentes que, en testing, optimizan la meta vía reward hacking.
+- Mollick: agentes y reward hacking (a veces hacking real)
+  @emollick 26 sep 01:54 CLT · ID 2103709671865602100. Incidentes continúan en disclosures OpenAI.
   https://x.com/emollick/status/2103709671865602100
 
-2 · Construcción e inmobiliario
-- Plan Chile Despega: >100 mil empleos con foco en obras, vivienda y Fogape
-  Kast: ~$1,3 billones (US$1.343 M). Acelerar infra, reconstrucción, vivienda y obras comunales; MOP/Minvu +$800 mil M de rápida ejecución; Fogape hasta $300 mil M.
+2 · Construcción e inmobiliario (5)
+- Plan Chile Despega: >100 mil empleos [chile-despega]
+  ~$1,3 billones (US$1.343 M); subsidios empleo $91 mil M 2026-27; MOP/Minvu +$800 mil M rápida ejecución; adelanto Salud $130 mil M; Fogape hasta $300 mil M (garantías ~$4,05 billones). De Grange + Poduje; ausente Quiroz. Bci: desempleo 8,9% factible fin de año.
   https://digital.elmercurio.com/2026/09/29/B/GR4M7P7K/TD4MBJJT
-- Gremios valoran el plan; CChC se ofrece como motor de empleo
-  Raimundo Rencoret (CChC): la construcción puede aportar “empleo de forma rápida” vía infra, vivienda y obras comunales.
+- Gremios / CChC motor de empleo [gremios-cchc]
+  CPC, SNA, CNC, Multigremial respaldan. Rencoret (CChC): empleo rápido vía infra/vivienda/obras comunales; pide agenda más amplia de crecimiento.
   https://digital.elmercurio.com/2026/09/29/B/GR4M7P7K/TD4MBJJR
-- Banca reabre financiamiento a proyectos inmobiliarios
-  ADI: banca disponible; stock RM 70k→50k; desistimientos 20%; foco <6.000 UF; OGUC en Contraloría; también Santiago Centro.
+- Banca reabre financiamiento inmobiliario [banca-inmobiliario]
+  ADI/Varela: banca disponible; stock RM 70k→50k; desistimientos 20% (antes 40%); tickets <6.000 UF; preventa 20–30%; OGUC en Contraloría; también Santiago Centro. Impulsos: subsidio tasa, IVA vivienda, DFL2.
   https://digital.elmercurio.com/2026/09/29/B/GR4M7P7L/TD4MBJM5
-- Mallplaza: anteproyecto lifestyle en Concón (~US$ 225 millones)
-  Tramitación municipal Concón, meta ~2030; presentarán EIA. Formato lifestyle al aire libre.
+- Mallplaza lifestyle Concón ~US$225 M [mallplaza-concon]
+  Bosques de Montemar; meta ~2030; EIA; formato aire libre baja altura; Grupo Falabella.
   https://digital.elmercurio.com/2026/09/29/B/GR4M7P7V/TD4MBJPI
-- Economía circular: tres brechas (regulación/permisos, infraestructura, operación)
-  Brechas en permisos, plantas de valorización y operación. Meta: 40% reciclaje 2030 / 75% 2040.
+- Economía circular: 3 brechas [economia-circular]
+  Regulación/permisos, plantas valorización (regiones), operación. RETC 2023: 5,9 Mt eliminadas vs 4 Mt valorizadas. Meta 40% 2030 / 75% 2040.
   https://digital.elmercurio.com/2026/09/29/DCST-B/NV4MBGK9/CV4MBM8K
 
-3 · Economía
-- Editorial: “Plan de cien mil empleos”
-  Valora el plan como puente hasta Reconstrucción/destrabes; llama a Presupuesto 2027 y mesa de reactivación.
+3 · Economía (5)
+- Editorial “Plan de cien mil empleos” [editorial-empleos]
+  Puente hasta Reconstrucción/destrabes; meta intermedia ~7,2% (2019, ~240 mil ocupaciones); focalizar subsidio en menos calificados; Presupuesto 2027 + mesa reactivación.
   https://digital.elmercurio.com/2026/09/29/A/GR4M7P7C/UQ4M7PCN
-- Trump, petróleo y cobre remecen activos chilenos
-  IPSA 11.137 (−1,06%) · dólar $965,20 · cobre US$6,6/lb · Brent US$105,28.
+- Trump, petróleo y cobre [petroleo-cobre]
+  IPSA 11.137 (−1,06%); dólar $965,20; cobre US$6,6/lb (−1,33%); Brent US$105,28; swaps +9/+15 pb; dólar intradía $973; $1.000 factible no base. UF no en texto editorial.
   https://digital.elmercurio.com/2026/09/29/B/GR4M7P7L/TD4MBJM1
-- Efectos de la jornada a 42 horas en comercio, turismo y servicios
-  CNC: 51,9% alza costos laborales; preocupación por 40 horas en 2028; Pakomio menciona permisología.
+- Jornada 42 horas (CNC) [jornada-42]
+  51,9% alza costos; 38% redujo horarios; 28% bajó producción/ventas; 18% ajustó contrataciones; 6/10 sin plan para 40h 2028; Pakomio: permisología.
   https://digital.elmercurio.com/2026/09/29/B/GR4M7P7M/TD4MBJNO
-- CBC Summit mañana: >200 ejecutivos de proyectos de inversión
-  Quiroz y Costa en apertura; mineras, energía, Metro, MOP y gremios.
+- Cecilia Cifuentes [cifuentes]
+  Productividad +8,4% vs costos laborales reales +32% (2013–2026). Acuerdos: adaptabilidad jornada, contrato por hora, sala cuna.
+  https://digital.elmercurio.com/2026/09/29/B/GR4M7P7O/TD4MBJOS
+- CBC Summit mañana [cbc-summit]
+  >200 ejecutivos; Quiroz + Costa; AMSA, Albemarle, Lundin, Transelec, Engie, Sonda, GTD, Metro, Oxiquim, MOP, gremios.
   https://digital.elmercurio.com/2026/09/29/B/GR4M7P7N/6G4MBM4E
 
-4 · Internacional
-- Crisis de vivienda en España: caso Maricarmen y “decreto Maricarmen”
-  Protestas Puerta del Sol; Sánchez negocia decreto de desahucios, arriendos e IVA turístico.
+4 · Internacional (3)
+- Crisis vivienda España / decreto Maricarmen [vivienda-espana]
+  Puerta del Sol; protección desahucios/arriendos; IVA turístico 10%→21%; vivienda protegida.
   https://digital.elmercurio.com/2026/09/29/A/GR4M7P7D/7A4MBIDA
-- Keiko Fujimori: seguridad y tensión con el Congreso en Perú
-  Pide facultades FF.AA.; Escudo + FBI; viaje a El Salvador.
+- Keiko Fujimori [keiko]
+  Facultades FF.AA. seguridad/cárceles; Escudo + FBI; viaje El Salvador.
   https://digital.elmercurio.com/2026/09/29/A/GR4M7P7E/7A4MBJCJ
-- EE.UU. cancela visas a altos cargos y jueces de Bolivia, Colombia, Ecuador y Perú
-  Presión diplomática de Washington en la región.
+- EE.UU. cancela visas (BO/CO/EC/PE) [visas-eeuu]
+  Altos cargos y jueces; presión diplomática regional.
   https://digital.elmercurio.com/2026/09/29/A/GR4M7P7E/7A4MBJCH
 
-5 · Nacional
-- Funeral del cabo Aguilera y pesquisa al autor abatido
-  Mártir 1.263; Kast en responso; autor Brayan José Farías Díaz (29).
+5 · Nacional (5)
+- Funeral cabo Aguilera [cabo-aguilera]
+  Mártir 1.263; Kast en responso; autor Brayan José Farías Díaz (29, venezolano); Fiscalía indaga más personas.
   https://digital.elmercurio.com/2026/09/29/C/GR4M7P80/2V4MBL82
-- Gobierno retiraría el “quinto” estado de excepción para pactar nueva reforma
-  Fusión Squella–Longton–Araya + régimen carcelario; Alvarado: retiro es opción.
+- Retiro “quinto” estado de excepción [estado-excepcion]
+  Fusión Squella–Longton–Araya + Vodanovic; Alvarado: retiro es opción.
   https://digital.elmercurio.com/2026/09/29/C/GR4M7P80/2V4MBL84
-- Señales de Kast a la oposición en el lanzamiento de Chile Despega
-  Soto, Mulet, Ortiz, Urzúa presentes fuera de foto; pide diálogo y mesa de seguridad.
+- Señales Kast a oposición [kast-oposicion]
+  Soto (PPD), Mulet, Ortiz (DC), Urzúa fuera de foto; diálogo “no por un voto”; mesa seguridad.
   https://digital.elmercurio.com/2026/09/29/C/GR4M7P80/2V4MBLLG
-- Interpelación al canciller Pérez Mackenna
-  Primera interpelación a un canciller; Escudo, Judd, China, Magallanes; cierre tenso.
+- Interpelación canciller Pérez Mackenna [canciller]
+  Escudo, Judd, China, Magallanes; Venegas pide renuncia; Mackenna: “usted no es el Presidente”.
   https://digital.elmercurio.com/2026/09/29/C/GR4M7P82/2V4MBLOM
-- Célula del PCC brasilero en Chile; vínculo con prófugo por homicidio en Renca
-  Operación Sintonía 1533: 20 detenidos; armas y cocaína; cooperación DEA/FBI.
+- Célula PCC brasilero / Sintonía 1533 [pcc-chile]
+  20 detenidos, 24 domicilios, 9 cárceles; armas y cocaína; vínculo prófugo Renca; DEA/FBI; Barros: evitar nuevo Tren de Aragua.
   https://digital.elmercurio.com/2026/09/29/C/GR4M7P81/2V4MBL9D
 
-Ingevec: sin menciones editoriales 29 sep 2026 (CChC/Rencoret sí en B1 sobre el plan).
-Tip: en Gmail web el acordeón a veces viene abierto; Apple Mail/Outlook/iOS colapsa bien.
+Capturas pendientes (Pages): https://alowenerm.github.io/briefing-el-mercurio/2026-09-29/shots/<slug>.png
+Omitidos del briefing (slugs no usados): starship, educacion-futuro, ffrench-davis, armas-penas, bienal.
+No enviado · No pushed a GitHub.
