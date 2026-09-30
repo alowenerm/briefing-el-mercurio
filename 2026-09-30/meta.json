@@ -1,0 +1,19 @@
+{
+  "date": "2026-09-30",
+  "subject": "El Mercurio — 30 sep 2026 · expandible (+ por noticia)",
+  "counts": {
+    "ia": 7,
+    "ia_em": 3,
+    "ia_x": 4,
+    "const": 5,
+    "eco": 4,
+    "intl": 3,
+    "nac": 5
+  },
+  "total": 24,
+  "ingevec": false,
+  "pages_url": "https://alowenerm.github.io/briefing-el-mercurio/2026-09-30/",
+  "html_len": 71946,
+  "text_len": 1081,
+  "shots_ok": 20
+}
