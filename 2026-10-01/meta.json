@@ -13,12 +13,25 @@
   },
   "total": 24,
   "ingevec": false,
+  "ingevec_detail": "No editorial mention in EM digital 2026-10-01 (48 pages / 154 articles / 109 with text). Peer scan negative (Imagina false positives only).",
   "pages_url": "https://alowenerm.github.io/briefing-el-mercurio/2026-10-01/",
   "html_len": 71448,
+  "email_compact_len": 20680,
   "text_len": 988,
   "shots_ok": 20,
-  "messageId": null,
-  "threadId": null,
-  "sent_approx_local": null,
-  "github_push": null
+  "messageId": "<010001a0f69ac005-05e96d8f-c5ce-483e-91f7-158c917c5e1f-000000@email.amazonses.com>",
+  "threadId": "4ec301d3-9f33-40f0-8feb-f592885f022b",
+  "sent_approx_local": "2026-10-01 05:35 -03",
+  "prior_placeholder_send": {
+    "messageId": "<010001a0f6973cbd-bc90098b-a1b9-4618-b8ad-978636018eec-000000@email.amazonses.com>",
+    "threadId": "f48f72c2-5d00-417f-8e99-6c65483218b1",
+    "note": "First MCP send accidentally used PLACEHOLDER html; superseded by corrective send with summary + Pages attachment"
+  },
+  "github_push": "a621c01",
+  "github_push_main_briefing": "89f399d",
+  "notes": [
+    "fxtwitter API returned 403; Gemini X posts verified via Chrome CDP (article+datetime)",
+    "email.html on Pages may lag deploy (404 shortly after push); index.html 200 with full accordion+shots",
+    "Full accordion EMAIL_COMPACT.html also at workdir and in repo as 2026-10-01/email.html"
+  ]
 }
