@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-01",
+  "subject": "El Mercurio — 1 oct 2026 · expandible (+ por noticia)",
+  "counts": {
+    "ia": 7,
+    "ia_em": 4,
+    "ia_x": 1,
+    "ia_other": 2,
+    "const": 5,
+    "eco": 4,
+    "intl": 3,
+    "nac": 5
+  },
+  "total": 24,
+  "ingevec": false,
+  "pages_url": "https://alowenerm.github.io/briefing-el-mercurio/2026-10-01/",
+  "html_len": 71448,
+  "text_len": 988,
+  "shots_ok": 20,
+  "messageId": null,
+  "threadId": null,
+  "sent_approx_local": null,
+  "github_push": null
+}
