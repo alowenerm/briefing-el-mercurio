@@ -1,97 +1,126 @@
 [
   {
-    "slug": "ia-ciberataques",
-    "bytes": 1259838,
-    "md5": "0dead8557b850c3212953d6e232a6704"
+    "file": "bachelet-oposicion.png",
+    "bytes": 695504
   },
   {
-    "slug": "putin-ia",
-    "bytes": 154605,
-    "md5": "420ce9df9726e052faf37dea8b1760f1"
+    "file": "bolsonaro-lula.png",
+    "bytes": 1315308
   },
   {
-    "slug": "oguc-contraloria",
-    "bytes": 412649,
-    "md5": "0d12c878a2f80238d2958d98a485c243"
+    "file": "desempleo-retail.png",
+    "bytes": 737295
   },
   {
-    "slug": "falabella-mallplaza",
-    "bytes": 593968,
-    "md5": "ee80e89d064fa5f56fbe60166b318ca9"
+    "file": "df-anthropic.png",
+    "bytes": 586166
   },
   {
-    "slug": "mop-vialidad",
-    "bytes": 722514,
-    "md5": "3f68b963e58fa7c006512b616aeb9a9b"
+    "file": "df-desempleo.png",
+    "bytes": 384820
   },
   {
-    "slug": "mk4-vivienda",
-    "bytes": 901910,
-    "md5": "62c2f499f1946690444ccbeeb5e56622"
+    "file": "df-fondos-inmo.png",
+    "bytes": 759343
   },
   {
-    "slug": "tren-melipilla",
-    "bytes": 786493,
-    "md5": "b6b4b59410a007f5bdeb4ee7c55c4b7c"
+    "file": "df-imacec.png",
+    "bytes": 468963
   },
   {
-    "slug": "imacec-mineria",
-    "bytes": 1238021,
-    "md5": "a9cfd58af4ad170cb39df23a1aef4e91"
+    "file": "df-jev.png",
+    "bytes": 456681
   },
   {
-    "slug": "mineria-inversion",
-    "bytes": 1155601,
-    "md5": "d5475b25ef3ed2c6c2d1fb5a491df83c"
+    "file": "df-mineria-contratistas.png",
+    "bytes": 472598
   },
   {
-    "slug": "dolar",
-    "bytes": 462174,
-    "md5": "cf8c7ffde1623c81094e22c710cb33fd"
+    "file": "df-mk4.png",
+    "bytes": 414854
   },
   {
-    "slug": "desempleo-retail",
-    "bytes": 737295,
-    "md5": "20a955d30629a28fefbdc8fef11478d1"
+    "file": "df-mop.png",
+    "bytes": 485402
   },
   {
-    "slug": "bolsonaro-lula",
-    "bytes": 1315308,
-    "md5": "ca6b2e06fed2aa66a2c3212c191c2c61"
+    "file": "df-oficinas.png",
+    "bytes": 550442
   },
   {
-    "slug": "latinos-trump",
-    "bytes": 897206,
-    "md5": "e537609e1316d7e58f995d13c73e3d33"
+    "file": "df-oguc.png",
+    "bytes": 546166
   },
   {
-    "slug": "ejecucion-eeuu",
-    "bytes": 953198,
-    "md5": "d7a9d2fe03a707fe7d653853d0dc983c"
+    "file": "df-openai-ft.png",
+    "bytes": 530123
   },
   {
-    "slug": "kast-seguridad",
-    "bytes": 1170904,
-    "md5": "f775ce87ae3f5d620c1b60e083ad8d9a"
+    "file": "df-tren-alcaldes.png",
+    "bytes": 459535
   },
   {
-    "slug": "uc-confech",
-    "bytes": 1147334,
-    "md5": "21099326a2419ecdf219563426f29882"
+    "file": "dolar.png",
+    "bytes": 462174
   },
   {
-    "slug": "bachelet-oposicion",
-    "bytes": 695504,
-    "md5": "f4db20e82acf95145be819f323411949"
+    "file": "ejecucion-eeuu.png",
+    "bytes": 953198
   },
   {
-    "slug": "gendarmeria",
-    "bytes": 1159653,
-    "md5": "55d6c931e929f0510c52fd1bf2bdd1d2"
+    "file": "falabella-mallplaza.png",
+    "bytes": 593968
   },
   {
-    "slug": "pcc-bautizados",
-    "bytes": 1087700,
-    "md5": "2d219a3fc633df2200ebfc012b91999f"
+    "file": "gendarmeria.png",
+    "bytes": 1159653
+  },
+  {
+    "file": "ia-ciberataques.png",
+    "bytes": 1259838
+  },
+  {
+    "file": "imacec-mineria.png",
+    "bytes": 1238021
+  },
+  {
+    "file": "kast-seguridad.png",
+    "bytes": 1170904
+  },
+  {
+    "file": "latinos-trump.png",
+    "bytes": 897206
+  },
+  {
+    "file": "mineria-inversion.png",
+    "bytes": 1155601
+  },
+  {
+    "file": "mk4-vivienda.png",
+    "bytes": 901910
+  },
+  {
+    "file": "mop-vialidad.png",
+    "bytes": 722514
+  },
+  {
+    "file": "oguc-contraloria.png",
+    "bytes": 412649
+  },
+  {
+    "file": "pcc-bautizados.png",
+    "bytes": 1087700
+  },
+  {
+    "file": "putin-ia.png",
+    "bytes": 154605
+  },
+  {
+    "file": "tren-melipilla.png",
+    "bytes": 786493
+  },
+  {
+    "file": "uc-confech.png",
+    "bytes": 1147334
   }
 ]
