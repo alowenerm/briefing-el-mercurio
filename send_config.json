@@ -1,0 +1,6 @@
+{
+  "recipients": ["alowener@ingevec.cl"],
+  "never_cc": ["jbengoa@ingevec.cl"],
+  "email_format": "short_body_pages_url_only",
+  "notes": "Since 3 Oct 2026 Andrés wants ONE email to alowener only. Do not copy jbengoa unless he asks that day. No screenshots in DF/EM accordion — full transcript text only."
+}
