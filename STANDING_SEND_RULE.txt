@@ -1,6 +1,6 @@
-STANDING RULE (Andrés, 3 oct 2026; reinforced 7 oct 2026)
-- Email the morning briefing link ONLY to alowener@ingevec.cl
-- NEVER add jbengoa@ingevec.cl (or anyone else) unless Andrés asks that day
+STANDING RULE (Andrés, 13 oct 2026; supersedes 3 oct / 7 oct)
+- Email the morning briefing link to BOTH alowener@ingevec.cl AND jbengoa@ingevec.cl
+- Andrés, 13 oct 2026: send the daily link email to alowener@ingevec.cl AND jbengoa@ingevec.cl. Short body: good morning + Pages link. Accordion text-only, no screenshots.
 - ONE email per morning; no second html.gz / Drive mail
 - DF and El Mercurio accordion: full transcript text only, NO screenshots
 Read send_config.json before every AgentMail send_message for this briefing.
